@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XS/NGQTiTnbg/ojwGbg9RCWxUWQ5eBu6fEaedxfUMCD0+3vvXQIXsnSz2D94w138b5ntBBpQYjAgRRnyRfAQug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\przes\\Desktop\\CQRS\\CQRSExamples\\CQRS.Manually.Application\\CQRS.Manually.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\przes\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

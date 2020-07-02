@@ -1,0 +1,11 @@
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\bin\Debug\netcoreapp3.1\CQRS.Manually.API.exe
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\CQRS.Manually.API.csprojAssemblyReference.cache
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\CQRS.Manually.API.AssemblyInfoInputs.cache
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\CQRS.Manually.API.AssemblyInfo.cs
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\CQRS.Manually.API.RazorTargetAssemblyInfo.cache
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\staticwebassets\CQRS.Manually.API.StaticWebAssets.Manifest.cache
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\staticwebassets\CQRS.Manually.API.StaticWebAssets.xml
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\bin\Debug\netcoreapp3.1\CQRS.Manually.Application.dll

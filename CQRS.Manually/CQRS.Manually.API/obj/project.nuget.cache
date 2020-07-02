@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wvdsPSThgjRdSYAqV/he4v9X55VNMU/ifBi8wc4gEKS0XCaBoxKhEXQhFT690pC03PJnsQxNH20WOTMInJKDHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\przes\\Desktop\\CQRS\\CQRSExamples\\CQRS.Manually\\CQRS.Manually.API\\CQRS.Manually.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\przes\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\przes\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
