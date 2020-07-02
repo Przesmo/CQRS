@@ -1,5 +1,0 @@
-C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually.Application\bin\Debug\netcoreapp3.1\CQRS.Manually.Application.deps.json
-C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually.Application\bin\Debug\netcoreapp3.1\CQRS.Manually.Application.dll
-C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually.Application\obj\Debug\netcoreapp3.1\CQRS.Manually.Application.csprojAssemblyReference.cache
-C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually.Application\obj\Debug\netcoreapp3.1\CQRS.Manually.Application.AssemblyInfoInputs.cache
-C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually.Application\obj\Debug\netcoreapp3.1\CQRS.Manually.Application.AssemblyInfo.cs

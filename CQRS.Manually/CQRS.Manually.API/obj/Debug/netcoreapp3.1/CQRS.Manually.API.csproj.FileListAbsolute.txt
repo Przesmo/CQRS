@@ -9,3 +9,16 @@ C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Deb
 C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\staticwebassets\CQRS.Manually.API.StaticWebAssets.Manifest.cache
 C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\staticwebassets\CQRS.Manually.API.StaticWebAssets.xml
 C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\bin\Debug\netcoreapp3.1\CQRS.Manually.Application.dll
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\bin\Debug\netcoreapp3.1\CQRS.Manually.API.deps.json
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\bin\Debug\netcoreapp3.1\CQRS.Manually.API.runtimeconfig.json
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\bin\Debug\netcoreapp3.1\CQRS.Manually.API.runtimeconfig.dev.json
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\bin\Debug\netcoreapp3.1\CQRS.Manually.API.dll
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\bin\Debug\netcoreapp3.1\CQRS.Manually.API.pdb
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\bin\Debug\netcoreapp3.1\CQRS.Manually.Application.pdb
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\CQRS.Manually.API.csproj.CoreCompileInputs.cache
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\CQRS.Manually.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\CQRS.Manually.API.csproj.CopyComplete
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\CQRS.Manually.API.dll
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\CQRS.Manually.API.pdb
+C:\Users\przes\Desktop\CQRS\CQRSExamples\CQRS.Manually\CQRS.Manually.API\obj\Debug\netcoreapp3.1\CQRS.Manually.API.genruntimeconfig.cache

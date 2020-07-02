@@ -121,8 +121,8 @@
     },
     "CQRS.Manually.Application/1.0.0": {
       "type": "project",
-      "path": "../../CQRS.Manually.Application/CQRS.Manually.Application.csproj",
-      "msbuildProject": "../../CQRS.Manually.Application/CQRS.Manually.Application.csproj"
+      "path": "../CQRS.Manually.Application/CQRS.Manually.Application.csproj",
+      "msbuildProject": "../CQRS.Manually.Application/CQRS.Manually.Application.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -158,8 +158,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\przes\\Desktop\\CQRS\\CQRSExamples\\CQRS.Manually.Application\\CQRS.Manually.Application.csproj": {
-              "projectPath": "C:\\Users\\przes\\Desktop\\CQRS\\CQRSExamples\\CQRS.Manually.Application\\CQRS.Manually.Application.csproj"
+            "C:\\Users\\przes\\Desktop\\CQRS\\CQRSExamples\\CQRS.Manually\\CQRS.Manually.Application\\CQRS.Manually.Application.csproj": {
+              "projectPath": "C:\\Users\\przes\\Desktop\\CQRS\\CQRSExamples\\CQRS.Manually\\CQRS.Manually.Application\\CQRS.Manually.Application.csproj"
             }
           }
         }
